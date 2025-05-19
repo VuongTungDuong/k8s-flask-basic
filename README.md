@@ -1,5 +1,5 @@
 
-# Nếu dùng minikube thì cần vào gõ lếnh sau
+# Nếu dùng minikube thì cần vào gõ lệnh sau để docker chạy trong môi trường của minikuber
 
 ```bash
 eval $(minikube docker-env)
